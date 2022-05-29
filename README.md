@@ -3,4 +3,5 @@ Two Retro Static Clock Widget Android App
 
 
 ![Screenshot 1](screenshots/a.png)
-![Screenshot 2](screenshots/b.png)
+
+<img src="screenshots/b.png" alt="Screenshot 2" width="200">
